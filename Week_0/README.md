@@ -1,3 +1,5 @@
+[Play "Kill the Beetle" on Scratch!](https://scratch.mit.edu/projects/1331953921)
+
 Overview
 "Kill the Beetle" is a 2D arcade-style game where the player controls a hunter to defeat falling enemies. The primary objective is to get the highest score possible before 20 beetles drop from the top of the screen. 
 
