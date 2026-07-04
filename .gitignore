@@ -1,5 +1,5 @@
+# Ignore my compiled C programs
 build/
-compare
-agree
-hi
-loops
+.vscode/
+task.json
+launch.json
